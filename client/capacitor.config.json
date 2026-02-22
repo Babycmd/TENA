@@ -1,0 +1,8 @@
+{
+  "appId": "com.tenaflow.app",
+  "appName": "Tena Flow",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
