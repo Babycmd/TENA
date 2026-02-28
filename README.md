@@ -43,7 +43,7 @@ A comprehensive full-stack healthcare management application for booking appoint
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tena-flow.git
+   git clone https://github.com/Babycmd/TENA.git
    cd tena-flow
    ```
 
